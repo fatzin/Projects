@@ -7,7 +7,7 @@
   Gerar senhas com letras maiusculas, minusculas, números e simbolos. (Generate passwords containing uppercase letters, lowercase letters, numbers and symbols)
   </h4>
  
-    <img align="center" alt="Fat-PG" height="200" width="200" src="https://i.imgur.com/iAyjSLC.png" />
+   <img align="center" alt="Fat-PG" height="200" width="200" src="https://i.imgur.com/iAyjSLC.png" />
 
 </div>
   
@@ -22,6 +22,6 @@
     A calculadora tem as funções deletar um número e limpar todo o console (This calculator has functionalities like delete a number and clear the console)
   </h4>
  
-   <img align="center" alt="Fat-PG" height="200" width="350" src="https://i.imgur.com/8fIs6Dr.gif" />
+   <img align="center" alt="Fat-CC" height="200" width="350" src="https://i.imgur.com/8fIs6Dr.gif" />
 
 </div>
